@@ -7,7 +7,7 @@
 
 - 👨‍🏭 I’m currently pursuing **B.Tech at Abes Institute of Technology**
 
-- 🤔 I’m looking for help with [DSA and Competitive Programing](DSA and Competitive Programing)
+- 🤔 I’m looking for help with [DSA and Competitive Programing]
 
 - 🏫 I’m currently learning **Full Stack Web Devlopment and DSA**
 
